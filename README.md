@@ -35,52 +35,6 @@ I´m a FullStack Developer
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" height="40" alt="PostgreSQL" /></a>
 </p>
 
-### Social Medias
-
-<p align="left">
-    <a href="https://www.github.com/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-    <a href="https://www.linkedin.com/in/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-    <a href="https://www.freecodecamp.org/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg" width="32" height="32" /></a>
-    <a href="http://www.instagram.com/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-    <a href="https://www.youtube.com/c/user/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-    <a href="https://www.twitter.com/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-    <a href="https://www.twitch.tv/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
-    <a href="https://www.facebook.com/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-    <a href="https://discord.com/users/mikaelmonteiro#1692" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-    <a href="https://www.stackoverflow.com/users/307999/mikael-monteiro?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-    <a href="https://www.codepen.io/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
-    <a href="https://www.behance.com/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
-    <a href="https://codesandbox.io/u/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a>
-    <a href="https://www.dev.to/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-    <a href="https://www.dribbble.com/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
-    <a href="https://hashnode.com/@mikaelmonteiro.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-    <a href="https://www.polywork.com/mikael_monteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>
-    <a href="http://www.medium.com/@mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-</p>
-
-### My Certifies
-- [FreeCodeCamp - Responsive Web Design](https://freecodecamp.org/certification/mikaelmonteirodev/responsive-web-design)
-- [Code.Org - Computer Science](https://studio.code.org/print_certificates/eyJuYW1lIjoiTWlrYWVsIE1vbnRlaXJvIiwiY291cnNlIjoiZXhwcmVzcy0yMDIyIiwiZG9ub3IiOiJBVFx1MDAyNlQifQ==)
-
-### Some Projects
-- [DevLinks - A linktree-style personal links page](https://mikaelmonteirodev.github.io/devlink/)
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikaelmonteirodev&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikaelmonteirodev&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikaelmonteirodev&theme=nord_dark) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikaelmonteirodev&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mikaelmonteirodev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
-
-<br>
-
-<b>Top Repositories</b>
-
-<p width="70%" align="center"><a href="https://github.com/mikaelmonteirodev/mikaelmonteirodev" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikaelmonteirodev&repo=mikaelmonteirodev&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mikaelmonteirodev/mikaelmonteirodev.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikaelmonteirodev&repo=mikaelmonteirodev.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></p>
-
 <br /><br /><br /><br />
 <br /><br /><br /><br />
 
