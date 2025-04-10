@@ -23,8 +23,6 @@ I´m a FullStack Developer
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/docker.png" height="45" alt="Docker" /></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" height="40" alt="PostgreSQL" /></a>
 </p>
-
-<br /><br /><br /><br />
-<br /><br /><br /><br />
+<br />
 
 ### Support Me !!!
